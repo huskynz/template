@@ -5,6 +5,7 @@
   </a>
 
   <h3 align="center">PUT TITLE OF REPO HERE</h3>
+  <p align="center">This is a base for all new repos within the HuskyNZ Github org</p>
   <br>
 
 </p>
